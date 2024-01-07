@@ -1,2 +1,1 @@
-# PythonProjects
-This Repository contains a list of my projects with functional code
+# PythonProjects: This Repository contains a list of my projects with functional code
