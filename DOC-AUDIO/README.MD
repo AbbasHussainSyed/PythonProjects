@@ -11,7 +11,7 @@ gTTS).
   ```bash
   pip install docx2txt gtts
 
-Usage
+Usage:
 Replace doc_path with the actual path to your Word document in the code.
 
 Run the script:
@@ -22,7 +22,7 @@ The script will print the text content and save it as an audio file named 'story
 
 The audio file will be played using the default system player.
 
-Additional Notes
+Additional Notes:
 Ensure your Word document is in the correct path.
 Adjust the code based on your specific needs.
 Feel free to customize this README based on the specific details of your code and project. Provide more information
