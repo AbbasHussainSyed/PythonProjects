@@ -16,7 +16,7 @@ Replace doc_path with the actual path to your Word document in the code.
 
 Run the script:
 
-python your_script_name.py
+python DocAudio.py
 
 The script will print the text content and save it as an audio file named 'story.mp3'.
 
