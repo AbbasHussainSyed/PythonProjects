@@ -13,7 +13,7 @@ print(text)
 tts = gTTS(text=text, lang='en')
 
 # Save the spoken text to an audio file
-tts.save("story.mp3")
+tts.save("DocAudio.mp3")
 
 # Play the audio file using the default system player
-os.system("start story.mp3")
+os.system("start DocAudio.mp3")
