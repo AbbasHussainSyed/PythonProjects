@@ -1,7 +1,3 @@
-Certainly! Here's a README file for the provided code:
-
----
-
 # Pyramid Message Decoder
 
 ## Overview
