@@ -2,7 +2,7 @@ Certainly! Below is a sample README file for a car data analysis project focused
 
 ---
 
-# Car Data Analysis for Price Prediction
+# Car Data Analysis
 
 ## Overview
 
